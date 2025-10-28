@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Software Developer/MERN stack developer having good Knowledge of JavaScript, Typescript, NextJS, Scoket.io, SQL, RTK query and Redux
+A passionate Software Developer whose life moto is code->eat->gym->sleep->Repeat
 
 
 ## 🌐 Socials:

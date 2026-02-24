@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Software Developer whose life moto is code->eat->gym->sleep->Repeat
+## A passionate Software Developer whose life moto is code->eat->gym->code->sleep->Repeat
 
 
 ## 🌐 Socials:

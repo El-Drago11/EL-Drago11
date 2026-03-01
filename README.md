@@ -10,7 +10,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://rahul-singh-rawat.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://r2r-logs.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-rawat-0360a7252) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:11rahulsinghrawat@gmail.com)
 

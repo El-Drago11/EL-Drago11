@@ -1,3 +1,24 @@
+## 🚀 Featured Projects
+
+### 🧴 Dermatech
+[🔗 Live Demo](https://dermatech-one.vercel.app/)
+
+![Dermatech](./assets/dermatech.png)
+
+---
+
+### 🧑‍💼 Anchor Talents
+[🔗 Live Demo](https://anchor-talents.vercel.app/)
+
+![Anchor Talents](./assets/anchor-talents.png)
+
+---
+
+### ⚡ Energy Flow
+[🔗 Live Demo](https://energyflow-two.vercel.app/)
+
+![Energy Flow](./assets/energyflow.png)
+
 ## 🧠 Highlights/Achievments
 * ✔️ 1+ Years of experience in Software Development
 * ✔️ Strong in MERN Stack (MongoDB, Express, React, Node.js)

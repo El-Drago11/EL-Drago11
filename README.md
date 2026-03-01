@@ -19,24 +19,24 @@
 
 ## 🚀 Featured Projects
 
-### 🧴 Dermatech
-[🔗 Live Demo](https://dermatech-one.vercel.app/)
+<table>
+<tr>
+<td align="center">
+<b>🧴 Dermatech</b><br/>
+<a href="https://dermatech-one.vercel.app/">Visit</a>
+</td>
 
-![Dermatech](./assets/dermatech.png)
+<td align="center">
+<b>🧑‍💼 Anchor Talents</b><br/>
+<a href="https://anchor-talents.vercel.app/">Visit</a>
+</td>
 
----
-
-### 🧑‍💼 Anchor Talents
-[🔗 Live Demo](https://anchor-talents.vercel.app/)
-
-![Anchor Talents](./assets/anchor-talents.png)
-
----
-
-### ⚡ Energy Flow
-[🔗 Live Demo](https://energyflow-two.vercel.app/)
-
-![Energy Flow](./assets/energyflow.png)
+<td align="center">
+<b>⚡ Energy Flow</b><br/>
+<a href="https://energyflow-two.vercel.app/">Visit</a>
+</td>
+</tr>
+</table>
 
 
 # 📊 GitHub Stats:

@@ -1,24 +1,3 @@
-## 🚀 Featured Projects
-
-### 🧴 Dermatech
-[🔗 Live Demo](https://dermatech-one.vercel.app/)
-
-![Dermatech](./assets/dermatech.png)
-
----
-
-### 🧑‍💼 Anchor Talents
-[🔗 Live Demo](https://anchor-talents.vercel.app/)
-
-![Anchor Talents](./assets/anchor-talents.png)
-
----
-
-### ⚡ Energy Flow
-[🔗 Live Demo](https://energyflow-two.vercel.app/)
-
-![Energy Flow](./assets/energyflow.png)
-
 ## 🧠 Highlights/Achievments
 * ✔️ 1+ Years of experience in Software Development
 * ✔️ Strong in MERN Stack (MongoDB, Express, React, Node.js)
@@ -54,6 +33,28 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=El-Drago11&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🚀 Featured Projects
+
+### 🧴 Dermatech
+[🔗 Live Demo](https://dermatech-one.vercel.app/)
+
+![Dermatech](./assets/dermatech.png)
+
+---
+
+### 🧑‍💼 Anchor Talents
+[🔗 Live Demo](https://anchor-talents.vercel.app/)
+
+![Anchor Talents](./assets/anchor-talents.png)
+
+---
+
+### ⚡ Energy Flow
+[🔗 Live Demo](https://energyflow-two.vercel.app/)
+
+![Energy Flow](./assets/energyflow.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=El-Drago11&icon=0&color=0)](https://visitcount.itsvg.in)

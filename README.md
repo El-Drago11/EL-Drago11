@@ -1,7 +1,16 @@
 # 💫 About Me:
 ## A passionate Software Developer whose life moto is:
-## code->eat->gym->code->sleep->Repeat
+# code->eat->gym->code->sleep->Repeat
 
+## 🧠 Highlights/Achievments
+* ✔️ 1+ Years of experience in Software Development
+* ✔️ Strong in MERN Stack (MongoDB, Express, React, Node.js)
+* ✔️ Experience with real-time systems (Socket.io)
+* ✔️ Built scalable apps using Redux Toolkit
+* ✔️ Integrated payment gateways (Razorpay, CCAvenue)
+* ✔️ Improved performance by 25–50% in production systems
+* ✔️ Worked with Next.js (SEO optimization +40%)
+* ✔️ Built role-based admin dashboards
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-rawat-0360a7252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:11rahulsinghrawat@gmail.com) 

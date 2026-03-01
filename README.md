@@ -1,8 +1,50 @@
 ## 🚀 Featured Projects
 
-- 🧴 **Dermatech** → [Live](https://dermatech-one.vercel.app/)
-- 🧑‍💼 **Anchor Talents** → [Live](https://anchor-talents.vercel.app/)
-- ⚡ **Energy Flow** → [Live](https://energyflow-two.vercel.app/)
+<table>
+<tr>
+<td align="center">
+<b>🧴 Dermatech</b><br/>
+<a href="https://dermatech-one.vercel.app/">Visit</a>
+</td>
+
+<td align="center">
+<b>🧑‍💼 Anchor Talents</b><br/>
+<a href="https://anchor-talents.vercel.app/">Visit</a>
+</td>
+
+<td align="center">
+<b>⚡ Energy Flow</b><br/>
+<a href="https://energyflow-two.vercel.app/">Visit</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>📚 Study Notion</b><br/>
+<a href="https://study-notion-chi-one.vercel.app/">Visit</a>
+</td>
+
+<td align="center">
+<b>🎬 Happy Hours</b><br/>
+<a href="https://happyhours-77fd1.web.app/">Visit</a>
+</td>
+
+<td align="center">
+<b>💬 Lock Chat</b><br/>
+<a href="https://lock-chat-phi.vercel.app/">Visit</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🔗 UpLink</b><br/>
+<a href="https://up-link-frontend.vercel.app/">Visit</a>
+</td>
+
+<td></td>
+<td></td>
+</tr>
+</table>
 
 
 ## 🧠 Highlights/Achievments

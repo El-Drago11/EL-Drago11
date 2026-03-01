@@ -3,10 +3,9 @@
 I build fast, scalable, and real-time web applications.
 
 With experience in MERN stack and modern tools, developed SAS based platforms and worked on chat systems, and performance-heavy applications that handle real users — not just demos.
-
-💡 I care about clean architecture, smooth UX, and efficient APIs.  
-⚡ Real-time systems and optimization are where I enjoy working the most.  
-🚀 Always exploring better ways to build, scale, and improve.
+- 💡 I care about clean architecture, smooth UX, and efficient APIs.  
+- ⚡ Real-time systems and optimization are where I enjoy working the most.  
+- 🚀 Always exploring better ways to build, scale, and improve.
 
 
 ## 🚀 Featured Projects

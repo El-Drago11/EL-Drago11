@@ -1,3 +1,14 @@
+## 🧠 Highlights/Achievments
+* ✔️ 1+ Years of experience in Software Development
+* ✔️ Strong in MERN Stack (MongoDB, Express, React, Node.js)
+* ✔️ Experience with real-time systems (Socket.io)
+* ✔️ Built scalable apps using Redux Toolkit
+* ✔️ Integrated payment gateways (Razorpay, CCAvenue)
+* ✔️ Improved performance by 25–50% in production systems
+* ✔️ Worked with Next.js (SEO optimization +40%)
+* ✔️ Built role-based admin dashboards
+
+  
 ## 🚀 Featured Projects
 
 ### 🏢 Company Projects
@@ -12,17 +23,6 @@
 - 🎬 **Happy Hours** → [🔗 Live](https://happyhours-77fd1.web.app/)
 - 💬 **Lock Chat** → [🔗 Live](https://lock-chat-phi.vercel.app/)
 - 🔗 **UpLink** → [🔗 Live](https://up-link-frontend.vercel.app/)
-
-
-## 🧠 Highlights/Achievments
-* ✔️ 1+ Years of experience in Software Development
-* ✔️ Strong in MERN Stack (MongoDB, Express, React, Node.js)
-* ✔️ Experience with real-time systems (Socket.io)
-* ✔️ Built scalable apps using Redux Toolkit
-* ✔️ Integrated payment gateways (Razorpay, CCAvenue)
-* ✔️ Improved performance by 25–50% in production systems
-* ✔️ Worked with Next.js (SEO optimization +40%)
-* ✔️ Built role-based admin dashboards
 
 
 ## 🌐 Socials:

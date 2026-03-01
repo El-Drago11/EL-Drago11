@@ -62,8 +62,12 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=El-Drago11&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=El-Drago11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Moto: code->eat->gym->code->sleep->Repeat
+
+## ⚡ Motto
+
+> Code → Build → Optimize → Gym → Repeat
+
+
+[![](https://visitcount.itsvg.in/api?id=El-Drago11&icon=0&color=0)](https://visitcount.itsvg.in)

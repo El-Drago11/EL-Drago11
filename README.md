@@ -1,7 +1,3 @@
-# 💫 About Me:
-## A passionate Software Developer whose life moto is:
-# code->eat->gym->code->sleep->Repeat
-
 ## 🧠 Highlights/Achievments
 * ✔️ 1+ Years of experience in Software Development
 * ✔️ Strong in MERN Stack (MongoDB, Express, React, Node.js)
@@ -34,4 +30,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=El-Drago11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Moto: code->eat->gym->code->sleep->Repeat

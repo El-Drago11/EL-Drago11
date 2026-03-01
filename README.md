@@ -1,8 +1,13 @@
 ## 🚀 Featured Projects
 
+### 🏢 Company Projects
 - 🧴 **Dermatech** → [🔗 Live](https://dermatech-one.vercel.app/)
 - 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchor-talents.vercel.app/)
 - ⚡ **Energy Flow** → [🔗 Live](https://energyflow-two.vercel.app/)
+
+---
+
+### 👨‍💻 Personal Projects
 - 📚 **Study Notion** → [🔗 Live](https://study-notion-chi-one.vercel.app/)
 - 🎬 **Happy Hours** → [🔗 Live](https://happyhours-77fd1.web.app/)
 - 💬 **Lock Chat** → [🔗 Live](https://lock-chat-phi.vercel.app/)

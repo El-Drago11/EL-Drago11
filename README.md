@@ -1,12 +1,8 @@
 ## 🚀 Featured Projects
 
-<div align="center">
-
-🔗 <a href="https://dermatech-one.vercel.app/"><b>Dermatech</b></a>  
-🔗 <a href="https://anchor-talents.vercel.app/"><b>Anchor Talents</b></a>  
-🔗 <a href="https://energyflow-two.vercel.app/"><b>Energy Flow</b></a>  
-
-</div>
+- 🧴 **Dermatech** → [Live](https://dermatech-one.vercel.app/)
+- 🧑‍💼 **Anchor Talents** → [Live](https://anchor-talents.vercel.app/)
+- ⚡ **Energy Flow** → [Live](https://energyflow-two.vercel.app/)
 
 
 ## 🧠 Highlights/Achievments

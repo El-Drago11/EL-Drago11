@@ -21,7 +21,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 - 📚 **Study Notion** → [🔗 Live](https://study-notion-chi-one.vercel.app/)
 - 🎬 **Happy Hours** → [🔗 Live](https://happyhours-77fd1.web.app/)
 - 💬 **Lock Chat** → [🔗 Live](https://lock-chat-phi.vercel.app/)
-- 🎮 **Tap-Tap (Game)** → [🔗 Live](https://up-link-frontend.vercel.app/)
+- 🎮 **Tap-Tap (Game)** → [🔗 Live](https://tab-tap.vercel.app/)
 
 
 ## 🧠 Highlights/Achievments

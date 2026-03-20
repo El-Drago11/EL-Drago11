@@ -12,7 +12,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 
 ### 🏢 Company Projects
 - 🧴 **Dermatech** → [🔗 Live](https://dermatech-one.vercel.app/)
-- 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchor-talents.vercel.app/)
+- 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchortalents.com/)
 - ⚡ **Energy Flow** → [🔗 Live](https://energyflow-two.vercel.app/)
 
 ---

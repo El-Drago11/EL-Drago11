@@ -11,17 +11,17 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 ## 🚀 Featured Projects
 
 ### 🏢 Company Projects
-- 🧴 **Dermatech** → [🔗 Live](https://dermatech-one.vercel.app/)
-- 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchortalents.com/)
-- ⚡ **Energy Flow** → [🔗 Live](https://energyflow-two.vercel.app/)
+- 🧴 **Dermatech** → [🔗 Live](https://website.webdropbox.in)
+- 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchortalents.com)
+- ⚡ **Energy Flow** → [🔗 Live](https://energyflow-two.vercel.app)
 
 ---
 
 ### 👨‍💻 Personal Projects
-- 📚 **Study Notion** → [🔗 Live](https://study-notion-chi-one.vercel.app/)
-- 🎬 **Happy Hours** → [🔗 Live](https://happyhours-77fd1.web.app/)
-- 💬 **Lock Chat** → [🔗 Live](https://lock-chat-phi.vercel.app/)
-- 🎮 **Tap-Tap (Game)** → [🔗 Live](https://tab-tap.vercel.app/)
+- 📚 **Study Notion** → [🔗 Live](https://study-notion-chi-one.vercel.app)
+- 🎬 **Happy Hours** → [🔗 Live](https://happyhours-77fd1.web.app)
+- 💬 **Lock Chat** → [🔗 Live](https://lock-chat-phi.vercel.app)
+- 🎮 **Tap-Tap (Game)** → [🔗 Live](https://tab-tap.vercel.app)
 
 
 ## 🧠 Highlights/Achievments

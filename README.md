@@ -1,3 +1,7 @@
+### ✍️ Today's Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## 👨‍💻 About Me  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://r2r-logs.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-rawat-0360a7252) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:11rahulsinghrawat@gmail.com)
 
 I build fast, scalable, and real-time web applications.
@@ -46,10 +50,6 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=El-Drago11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Today's Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ### 🔝 Top Contributed Repo

@@ -15,7 +15,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 ## 🚀 Featured Projects
 
 ### 🏢 Company Projects
-- 🧴 **Dermatech** → [🔗 Live](https://website.webdropbox.in)
+- 🧴 **Dermatech** → [🔗 Live](https://www.clinicdermatech.com)
 - 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchortalents.com)
 - ⚡ **Energy Flow** → [🔗 Live](https://energyflow-two.vercel.app)
 

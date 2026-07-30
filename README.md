@@ -1,3 +1,8 @@
+## 🚀 Featured Projects
+- 🌐 **Bytelogicindia.com** → [🔗 Live](https://bytelogicindia.com/)
+- 🧴 **Clinicdermatech.com** → [🔗 Live](https://www.clinicdermatech.com)
+- 🧑‍💼 **Anchortalents.com** → [🔗 Live](https://anchortalents.com)
+
 ### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -10,22 +15,6 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 - 💡 I care about clean architecture, smooth UX, and efficient APIs.  
 - ⚡ Real-time systems and optimization are where I enjoy working the most.  
 - 🚀 Always exploring better ways to build, scale, and improve.
-
-
-## 🚀 Featured Projects
-
-### 🏢 Company Projects
-- 🧴 **Dermatech** → [🔗 Live](https://www.clinicdermatech.com)
-- 🧑‍💼 **Anchor Talents** → [🔗 Live](https://anchortalents.com)
-- ⚡ **Energy Flow** → [🔗 Live](https://energyflow-two.vercel.app)
-
----
-
-### 👨‍💻 Personal Projects
-- 📚 **Study Notion** → [🔗 Live](https://study-notion-chi-one.vercel.app)
-- 🎬 **Happy Hours** → [🔗 Live](https://happyhours-77fd1.web.app)
-- 💬 **Lock Chat** → [🔗 Live](https://lock-chat-phi.vercel.app)
-- 🎮 **Tap-Tap (Game)** → [🔗 Live](https://tab-tap.vercel.app)
 
 
 ## 🧠 Highlights/Achievments

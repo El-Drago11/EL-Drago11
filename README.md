@@ -59,16 +59,37 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=El-Drago11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=El-Drago11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Drago11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=El-Drago11&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Rahul's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=El-Drago11&theme=dark&hide_border=true"
+    alt="Rahul's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-Drago11&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Rahul's Top Languages"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=El-Drago11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=El-Drago11&limit=10&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=El-Drago11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

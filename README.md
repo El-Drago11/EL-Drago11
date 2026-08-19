@@ -54,6 +54,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=bullmq&logoColor=white)
 
 ### 🛠️ Tools & Design
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

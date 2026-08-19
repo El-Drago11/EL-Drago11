@@ -3,9 +3,6 @@
 - 🧴 **Clinicdermatech.com** → [🔗 Live](https://www.clinicdermatech.com)
 - 🧑‍💼 **Anchortalents.com** → [🔗 Live](https://anchortalents.com)
 
-### ✍️ Today's Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## 👨‍💻 About Me  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://r2r-logs.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-rawat-0360a7252) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:11rahulsinghrawat@gmail.com)
 
@@ -26,6 +23,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 * Improved performance by 25–50% in production systems
 * Worked with Next.js (SEO optimization +40%)
 * Built role-based admin dashboards
+
 
 # 💻 Tech Stack
 
@@ -61,19 +59,19 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=El-Drago11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=El-Drago11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Drago11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=El-Drago11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=El-Drago11&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Today's Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 

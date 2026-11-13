@@ -15,7 +15,7 @@ With experience in MERN stack and modern tools, developed SAS based platforms an
 
 
 ## 🧠 Highlights/Achievments
-* 1+ Years of experience in Software Development
+* 1.6+ Years of experience in Software Development
 * Strong in MERN Stack (MongoDB, Express, React, Node.js)
 * Experience with real-time systems (Socket.io)
 * Built scalable apps using Redux Toolkit
